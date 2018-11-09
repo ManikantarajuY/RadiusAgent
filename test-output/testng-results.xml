@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95612" started-at="2018-11-08T19:28:26Z" finished-at="2018-11-08T19:30:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95612" started-at="2018-11-08T19:28:26Z" finished-at="2018-11-08T19:30:02Z">
+      <class name="com.Radius.qa.TestCases.LoginPage_Test">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.Radius.qa.TestCases.LoginPage_Test@365185bd]" name="Setup" is-config="true" duration-ms="21317" started-at="2018-11-08T19:28:26Z" finished-at="2018-11-08T19:28:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="ForgotPasswordTest()[pri:0, instance:com.Radius.qa.TestCases.LoginPage_Test@365185bd]" name="ForgotPasswordTest" duration-ms="148" started-at="2018-11-08T19:28:47Z" finished-at="2018-11-08T19:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotPasswordTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Radius.qa.TestCases.LoginPage_Test@365185bd]" name="tearDown" is-config="true" duration-ms="276" started-at="2018-11-08T19:28:48Z" finished-at="2018-11-08T19:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.Radius.qa.TestCases.LoginPage_Test@365185bd]" name="Setup" is-config="true" duration-ms="20848" started-at="2018-11-08T19:28:48Z" finished-at="2018-11-08T19:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Logo_Test()[pri:0, instance:com.Radius.qa.TestCases.LoginPage_Test@365185bd]" name="Logo_Test" duration-ms="46" started-at="2018-11-08T19:29:09Z" finished-at="2018-11-08T19:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logo_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Radius.qa.TestCases.LoginPage_Test@365185bd]" name="tearDown" is-config="true" duration-ms="281" started-at="2018-11-08T19:29:09Z" finished-at="2018-11-08T19:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.Radius.qa.TestCases.LoginPage_Test@365185bd]" name="Setup" is-config="true" duration-ms="24008" started-at="2018-11-08T19:29:09Z" finished-at="2018-11-08T19:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="SignUpTest()[pri:0, instance:com.Radius.qa.TestCases.LoginPage_Test@365185bd]" name="SignUpTest" duration-ms="149" started-at="2018-11-08T19:29:33Z" finished-at="2018-11-08T19:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Radius.qa.TestCases.LoginPage_Test@365185bd]" name="tearDown" is-config="true" duration-ms="275" started-at="2018-11-08T19:29:33Z" finished-at="2018-11-08T19:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.Radius.qa.TestCases.LoginPage_Test@365185bd]" name="Setup" is-config="true" duration-ms="22777" started-at="2018-11-08T19:29:33Z" finished-at="2018-11-08T19:29:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Verify_LoginTest()[pri:1, instance:com.Radius.qa.TestCases.LoginPage_Test@365185bd]" name="Verify_LoginTest" duration-ms="5091" started-at="2018-11-08T19:29:56Z" finished-at="2018-11-08T19:30:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Radius.qa.TestCases.LoginPage_Test@365185bd]" name="tearDown" is-config="true" duration-ms="323" started-at="2018-11-08T19:30:01Z" finished-at="2018-11-08T19:30:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Radius.qa.TestCases.LoginPage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
